@@ -1,0 +1,55 @@
+url: https://redteamproject.org
+
+# Site settings
+title: Red Team Project
+email: jasoncallaway@google.com
+description: "Open source cybersecurity tooling"
+
+# Team names, titles and social links
+people:
+- name: Jason Callaway
+  pic: jason_callaway
+  position: Red Team Project Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/jasoncallaway
+
+- name: Dave Kennedy
+  pic: dave_kennedy
+  position: TrustedSec founder, hacker extraordinaire
+  social:
+    - title: twitter
+      url: https://twitter.com/HackingDave
+
+- name: Dan Prieto
+  pic: dan_prieto
+  position: Google Cloud Strategic Executive
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/daniel-b-prieto-7ba38/
+
+- name: Matt Miller
+  pic: matt_miller
+  position: Fedora Project Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/mattdm
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/redteamproject
+  - title: github
+    url: https://github.com/redteam-project
+  - title: meetup
+    url: https://meetup.com/redteamproject
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 25 Massachusetts Ave NW
+  - line: Suite 900
+  - line: Washington, DC 20001
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,31 @@
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fab fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="https://www.linuxfoundation.org/privacy/">Privacy Policy</a>
+                        </li>
+                        <li><a href="https://www.linuxfoundation.org/terms/">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+              &nbsp;<br />&nbsp;<br />
+              <span class="copyright">
+                <center>Based on the <a href="https://github.com/y7kim/agency-jekyll-theme">Agency Jekyll Theme</a></center>
+              </span>
+            </div>
+        </div>
+    </footer>

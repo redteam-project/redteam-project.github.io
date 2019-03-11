@@ -35,6 +35,20 @@ people:
     - title: twitter
       url: https://twitter.com/mattdm
 
+- name: Mudge
+  pic: mudge
+  position: Head of security at Stripe, the Daivd Bowie of infosec
+  social:
+    - title: twitter
+      url: https://twitter.com/dotmudge
+
+- name: Sarah Zatko
+  pic: sarah_zatko
+  position: Cyber-ITL Chief Scientist
+  social:
+    - title: chrome
+      url: https://cyber-itl.org/about/company/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter

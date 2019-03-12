@@ -13,6 +13,8 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/jasoncallaway
+    - title: chrome
+      url: https://blog.jasoncallaway.com
 
 - name: Dave Kennedy
   pic: dave_kennedy
@@ -28,13 +30,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/daniel-b-prieto-7ba38/
 
-- name: Matt Miller
-  pic: matt_miller
-  position: Fedora Project Lead
-  social:
-    - title: twitter
-      url: https://twitter.com/mattdm
-
 - name: Mudge
   pic: mudge
   position: Head of security at Stripe, the David Bowie of infosec
@@ -48,6 +43,13 @@ people:
   social:
     - title: chrome
       url: https://cyber-itl.org/about/company/
+
+- name: Justin Forbes
+  pic: justin_forbes
+  position: Fedora Kernel Maintainer
+  social:
+    - title: twitter
+      url: https://twitter.com/jmflinuxtx
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

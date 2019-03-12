@@ -3,10 +3,10 @@
   <channel>
     <title>Red Team Project</title>
     <description>Open source cybersecurity tooling</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Mar 2019 13:14:39 -0400</pubDate>
-    <lastBuildDate>Tue, 12 Mar 2019 13:14:39 -0400</lastBuildDate>
+    <link>https://redteamproject.org/</link>
+    <atom:link href="https://redteamproject.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 12 Mar 2019 13:39:55 -0400</pubDate>
+    <lastBuildDate>Tue, 12 Mar 2019 13:39:55 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
   </channel>
